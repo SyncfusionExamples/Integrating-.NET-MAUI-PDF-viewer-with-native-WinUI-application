@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PDFViewerNativeEmbeddingWinUI.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PDFViewerNativeEmbeddingWinUI.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
