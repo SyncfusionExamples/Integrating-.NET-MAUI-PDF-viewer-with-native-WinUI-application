@@ -15,7 +15,7 @@ Install the [Syncfusion.Maui.PdfViewer](https://www.nuget.org/packages/Syncfusio
 
 **Step 4:**
 
-Register the Syncfusion core handler in the **MauiProgram.cs** file of the .NET MAUI single project by calling the **ConfigureSyncfusionCore** method. 
+Register the Syncfusion&reg; core handler in the **MauiProgram.cs** file of the .NET MAUI single project by calling the **ConfigureSyncfusionCore** method. 
 
  
  ```csharp
